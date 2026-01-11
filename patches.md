@@ -7,3 +7,4 @@ To apply a patch: `patch -p1 < $PATCH`
 - [scrollback](https://st.suckless.org/patches/scrollback/st-scrollback-0.9.2.diff)
 - [externalpipe](https://st.suckless.org/patches/externalpipe/st-externalpipe-0.8.5.diff)
 - [xresources](https://st.suckless.org/patches/xresources/st-xresources-20230320-45a15676.diff)
+- [CSI 22, 23](https://st.suckless.org/patches/csi_22_23/st-csi_22_23-0.8.5.diff)
