@@ -8,3 +8,4 @@ To apply a patch: `patch -p1 < $PATCH`
 - [externalpipe](https://st.suckless.org/patches/externalpipe/st-externalpipe-0.8.5.diff)
 - [xresources](https://st.suckless.org/patches/xresources/st-xresources-20230320-45a15676.diff)
 - [CSI 22, 23](https://st.suckless.org/patches/csi_22_23/st-csi_22_23-0.8.5.diff)
+- [expected anysize](https://st.suckless.org/patches/anysize/st-expected-anysize-0.9.diff)
