@@ -11,3 +11,4 @@ To apply a patch: `patch -p1 < $PATCH`
 - [expected anysize](https://st.suckless.org/patches/anysize/st-expected-anysize-0.9.diff)
 - [sync](https://st.suckless.org/patches/sync/st-appsync-20200618-b27a383.diff)
 - [maxcol](https://github.com/LukeSmithxyz/st/commit/e053bd6036331cc7d14f155614aebc20f5371d3a.patch)
+- [keyboard select](https://st.suckless.org/patches/keyboard_select/st-keyboard_select-20250816-a1193c1.diff)
